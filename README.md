@@ -4,7 +4,7 @@ Imagem docker com alpine e instalado manualmente o java e o tomcat. Embutido na 
 
 ## 1) Construir a imagem
 
-> docker build -t brunocarvalho287/alpine-tomcat .
+> docker build -t brunocarvalho287/vendas-facil .
 
 ## 2) Executar a imagem
 
